@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 
 // This is where you add the two functions
+
 
 int main() {
     float temp_f = 100.0;
